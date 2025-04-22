@@ -12,4 +12,4 @@ Hi! I'm **Jan Kompałka**, a Master's student in **Automation and Industrial IT*
 
 ---
 
-- **Programming & IT**: Visual Basic, Assembler, Python, Matlab Simulink, LTspice, Siemens S7-1200.  
+- **Programming & IT**: VBA, Assembler, Python, Matlab Simulink, LTspice, Siemens S7-1200.  
